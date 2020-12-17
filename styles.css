@@ -7,4 +7,14 @@ html,body{
 body{
     background-color:#212529 ;
     color: white;
+    margin: 0;
+    text-align: center;
+}
+.big-container{
+    height: 100%;
+    margin-left: 284px;
+    margin-right: 284px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
 }
