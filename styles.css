@@ -38,3 +38,7 @@ a{
     padding-bottom: 4px;
     border-bottom: 4px solid white;
 }
+.ul-a:hover{
+    border-bottom: 4px solid gray;
+}
+.
