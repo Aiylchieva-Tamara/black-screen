@@ -82,3 +82,13 @@ p{
     font-size: 20px;
     line-height: 30px;
 }
+footer
+.footer-p{
+    margin: 0;
+    margin-bottom: 16px;
+    color: gray;
+    font-size: 16px;
+}
+.footer-a{
+    color: white;
+}
