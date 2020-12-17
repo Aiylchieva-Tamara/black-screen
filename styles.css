@@ -12,8 +12,8 @@ body{
 }
 .big-container{
     height: 100%;
-    margin-left: 284px;
-    margin-right: 284px;
+    margin-left: 210px;
+    margin-right: 210px;
     padding: 16px;
     display: flex;
     flex-direction: column;
@@ -34,6 +34,7 @@ a{
     text-decoration: none;
 }
 .ul-a{
+    box-sizing: border-box;
     padding-top: 4px;
     padding-bottom: 4px;
     border-bottom: 4px solid white;
@@ -41,4 +42,12 @@ a{
 .ul-a:hover{
     border-bottom: 4px solid gray;
 }
-.
+.ul-a2{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 16px;
+    color: gray;
+}
+.ul-a2:hover{
+    border-bottom: 4px solid gray;
+}
