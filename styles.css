@@ -64,3 +64,21 @@ p{
     line-height: 30px;
     margin-block-end: 20px;
 }
+.button{
+    margin: 0;
+    margin-bottom: 16px;
+}
+.button a{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+    color: rgb(51, 50, 50);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+}
